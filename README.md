@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Anshika Maurya
 
- <p align="right"> <img alt="Data Analytics" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"> </p>
+ <p align="centre"> <img alt="Data Analytics" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"> </p>
 
 🎓 B.Sc. IT Student at Babasaheb Bhimrao Ambedkar Central University
 
